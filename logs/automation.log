@@ -1,0 +1,265 @@
+18:10:43.0710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRIYAR~1\AppData\Local\Temp\testng-eclipse-952521630\testng-customsuite.xml"
+18:10:44.0189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:10:44.0197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:10:44.0201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+18:10:44.0247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+18:10:44.0251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:44.0333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Priyaranjan Kumar\AppData\Local\Temp\testng-eclipse-952521630\testng-customsuite.xml
+
+18:10:44.0386 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+18:10:54.0388 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:10:54.0512 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:10:55.0395 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:10:55.0395 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:10:57.0125 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:10:57.0318 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:10:57.0319 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:10:57.0658 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@64b7225f: 247 ms
+18:10:57.0659 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@33db72bd: 1 ms
+18:10:57.0680 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@745c2004: 19 ms
+18:10:57.0700 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@557eb543: 18 ms
+18:10:57.0707 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@63716833: 7 ms
+18:10:57.0707 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@573284a5: 0 ms
+18:12:30.0455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRIYAR~1\AppData\Local\Temp\testng-eclipse--2123824951\testng-customsuite.xml"
+18:12:31.0055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:12:31.0065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:12:31.0070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+18:12:31.0118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+18:12:31.0122 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:12:31.0200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Priyaranjan Kumar\AppData\Local\Temp\testng-eclipse--2123824951\testng-customsuite.xml
+
+18:12:31.0255 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+18:12:48.0177 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:12:48.0294 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:12:53.0580 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:12:53.0580 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:12:55.0083 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:12:55.0122 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:12:55.0123 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:12:55.0123 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:12:55.0283 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@64b7225f: 102 ms
+18:12:55.0284 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@33db72bd: 1 ms
+18:12:55.0305 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@745c2004: 18 ms
+18:12:55.0316 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@557eb543: 10 ms
+18:12:55.0324 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@63716833: 7 ms
+18:12:55.0324 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@573284a5: 0 ms
+18:24:32.0151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\testng.xml"
+18:24:32.0838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\testng.xml
+
+18:24:41.0021 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:24:41.0168 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:24:41.0665 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:24:41.0665 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:24:43.0672 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:24:43.0731 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:24:43.0731 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:24:43.0732 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:33:54.0083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\testng.xml"
+18:33:55.0072 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\testng.xml
+
+18:34:11.0306 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:34:11.0628 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:34:12.0439 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:34:12.0440 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:34:14.0657 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:34:14.0709 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:34:14.0709 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:34:14.0709 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:41:15.0845 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
+18:41:16.0534 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\master.xml
+
+18:41:24.0965 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:41:25.0433 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:41:27.0846 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:41:27.0847 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:41:28.0629 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:41:29.0022 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:41:30.0913 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:41:30.0913 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:41:33.0632 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:41:33.0950 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:41:33.0951 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:41:33.0952 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:41:35.0575 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:41:35.0756 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:41:35.0756 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:41:35.0757 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:41:37.0386 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:41:37.0751 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:41:38.0567 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:41:38.0567 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:41:40.0169 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:41:40.0229 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:41:40.0229 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:41:40.0230 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:43:34.0573 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
+18:43:35.0684 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\master.xml
+
+18:43:47.0681 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:43:50.0976 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:43:52.0696 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:43:53.0082 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:43:54.0215 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:43:54.0215 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:43:57.0243 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:43:57.0244 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:43:59.0986 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:44:00.0247 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:44:00.0248 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:44:00.0248 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:44:02.0154 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:44:04.0178 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:44:04.0178 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:44:04.0179 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:44:04.0772 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:44:05.0120 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:44:05.0890 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:44:05.0890 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:44:07.0081 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:44:07.0111 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:44:07.0112 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:44:07.0112 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:44:26.0388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
+18:44:28.0026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\master.xml
+
+18:44:43.0045 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:44:43.0373 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:44:43.0609 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:44:43.0858 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:44:45.0295 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:44:45.0296 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:44:45.0297 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:44:45.0297 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:44:50.0873 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:44:51.0473 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:44:53.0020 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:44:53.0022 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:44:53.0022 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:44:53.0027 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:44:53.0029 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:44:53.0029 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:44:56.0634 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:44:56.0931 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:44:57.0689 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:44:57.0690 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:44:58.0984 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:44:59.0020 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:44:59.0022 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:44:59.0022 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:52:51.0051 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\crossbrowsertesting.xml"
+18:52:51.0804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\crossbrowsertesting.xml
+
+18:53:05.0362 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:53:06.0004 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:53:07.0924 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:53:08.0492 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:53:08.0494 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:53:08.0899 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:53:10.0039 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:53:10.0039 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:53:14.0013 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:53:14.0049 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:53:14.0148 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:53:14.0149 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:53:14.0149 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:53:14.0187 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:53:14.0189 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:53:14.0190 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:53:14.0660 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:53:15.0163 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:53:15.0972 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:53:15.0972 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:53:17.0456 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:53:17.0491 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
+18:53:17.0492 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
+18:53:17.0492 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:54:58.0710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\crossbrowsertesting.xml"
+18:54:59.0480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\crossbrowsertesting.xml
+
+18:55:11.0944 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:55:11.0944 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:55:12.0920 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:55:12.0939 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:55:14.0378 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:55:14.0379 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:55:14.0779 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:55:14.0779 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:55:18.0546 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+18:55:18.0944 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+18:55:20.0126 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+18:55:20.0127 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+18:55:20.0261 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:55:20.0436 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:55:20.0931 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:55:21.0735 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+18:55:22.0806 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+18:55:22.0859 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
+19:10:42.0103 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
+19:10:42.0784 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV121\master.xml
+
+19:10:51.0036 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
+19:10:51.0449 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
+19:10:52.0074 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
+19:10:52.0074 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
+19:10:53.0932 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
+19:10:53.0992 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
