@@ -1,416 +1,72 @@
-18:10:43.0710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRIYAR~1\AppData\Local\Temp\testng-eclipse-952521630\testng-customsuite.xml"
-18:10:44.0189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-18:10:44.0197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
-18:10:44.0201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
-18:10:44.0247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
-18:10:44.0251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:10:44.0279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:10:44.0333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Priyaranjan Kumar\AppData\Local\Temp\testng-eclipse-952521630\testng-customsuite.xml
-
-18:10:44.0386 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
-18:10:54.0388 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:10:54.0512 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:10:55.0395 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:10:55.0395 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:10:57.0125 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:10:57.0318 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:10:57.0319 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:10:57.0658 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@64b7225f: 247 ms
-18:10:57.0659 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@33db72bd: 1 ms
-18:10:57.0680 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@745c2004: 19 ms
-18:10:57.0700 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@557eb543: 18 ms
-18:10:57.0707 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@63716833: 7 ms
-18:10:57.0707 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@573284a5: 0 ms
-18:12:30.0455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRIYAR~1\AppData\Local\Temp\testng-eclipse--2123824951\testng-customsuite.xml"
-18:12:31.0055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-18:12:31.0065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
-18:12:31.0070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
-18:12:31.0118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
-18:12:31.0122 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-18:12:31.0151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-18:12:31.0200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Priyaranjan Kumar\AppData\Local\Temp\testng-eclipse--2123824951\testng-customsuite.xml
-
-18:12:31.0255 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
-18:12:48.0177 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:12:48.0294 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:12:53.0580 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:12:53.0580 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:12:55.0083 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:12:55.0122 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:12:55.0123 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:12:55.0123 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:12:55.0283 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@64b7225f: 102 ms
-18:12:55.0284 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@33db72bd: 1 ms
-18:12:55.0305 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@745c2004: 18 ms
-18:12:55.0316 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@557eb543: 10 ms
-18:12:55.0324 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@63716833: 7 ms
-18:12:55.0324 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@573284a5: 0 ms
-18:24:32.0151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\testng.xml"
-18:24:32.0838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\testng.xml
-
-18:24:41.0021 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:24:41.0168 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:24:41.0665 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:24:41.0665 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:24:43.0672 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:24:43.0731 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:24:43.0731 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:24:43.0732 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:33:54.0083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\testng.xml"
-18:33:55.0072 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\testng.xml
-
-18:34:11.0306 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:34:11.0628 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:34:12.0439 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:34:12.0440 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:34:14.0657 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:34:14.0709 [main] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:34:14.0709 [main] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:34:14.0709 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:41:15.0845 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-18:41:16.0534 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-18:41:24.0965 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:41:25.0433 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:41:27.0846 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:41:27.0847 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:41:28.0629 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:41:29.0022 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:41:30.0913 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:41:30.0913 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:41:33.0632 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:41:33.0950 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:41:33.0951 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:41:33.0952 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:41:35.0575 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:41:35.0756 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:41:35.0756 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:41:35.0757 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:41:37.0386 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:41:37.0751 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:41:38.0567 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:41:38.0567 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:41:40.0169 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:41:40.0229 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:41:40.0229 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:41:40.0230 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:43:34.0573 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-18:43:35.0684 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-18:43:47.0681 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:43:50.0976 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:43:52.0696 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:43:53.0082 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:43:54.0215 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:43:54.0215 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:43:57.0243 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:43:57.0244 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:43:59.0986 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:44:00.0247 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:44:00.0248 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:44:00.0248 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:44:02.0154 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:44:04.0178 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:44:04.0178 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:44:04.0179 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:44:04.0772 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:44:05.0120 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:44:05.0890 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:44:05.0890 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:44:07.0081 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:44:07.0111 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:44:07.0112 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:44:07.0112 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:44:26.0388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-18:44:28.0026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-18:44:43.0045 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:44:43.0373 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:44:43.0609 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:44:43.0858 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:44:45.0295 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:44:45.0296 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:44:45.0297 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:44:45.0297 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:44:50.0873 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:44:51.0473 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:44:53.0020 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:44:53.0022 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:44:53.0022 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:44:53.0027 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:44:53.0029 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:44:53.0029 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:44:56.0634 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:44:56.0931 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:44:57.0689 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:44:57.0690 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:44:58.0984 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:44:59.0020 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:44:59.0022 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:44:59.0022 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:52:51.0051 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\crossbrowsertesting.xml"
-18:52:51.0804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\crossbrowsertesting.xml
-
-18:53:05.0362 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:53:06.0004 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:53:07.0924 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:53:08.0492 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:53:08.0494 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:53:08.0899 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:53:10.0039 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:53:10.0039 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:53:14.0013 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:53:14.0049 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:53:14.0148 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:53:14.0149 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:53:14.0149 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:53:14.0187 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:53:14.0189 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:53:14.0190 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:53:14.0660 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:53:15.0163 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:53:15.0972 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:53:15.0972 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:53:17.0456 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:53:17.0491 [TestNG-tests-3] ERROR testcases.TC001_AccountRegistrationTest -  ****** Test Failed ********** 
-18:53:17.0492 [TestNG-tests-3] DEBUG testcases.TC001_AccountRegistrationTest -  ****** Debug Log ********** 
-18:53:17.0492 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:54:58.0710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\crossbrowsertesting.xml"
-18:54:59.0480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\crossbrowsertesting.xml
-
-18:55:11.0944 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:55:11.0944 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:55:12.0920 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:55:12.0939 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:55:14.0378 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:55:14.0379 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:55:14.0779 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:55:14.0779 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:55:18.0546 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-18:55:18.0944 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-18:55:20.0126 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-18:55:20.0127 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-18:55:20.0261 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:55:20.0436 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:55:20.0931 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:55:21.0735 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-18:55:22.0806 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-18:55:22.0859 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-19:10:42.0103 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-19:10:42.0784 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-19:10:51.0036 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-19:10:51.0449 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-19:10:52.0074 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-19:10:52.0074 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-19:10:53.0932 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-19:10:53.0992 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-16:32:06.0570 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-16:32:08.0138 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-16:32:23.0131 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-16:32:23.0739 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-16:32:24.0560 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-16:32:24.0560 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-16:32:26.0973 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-16:32:27.0040 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-16:33:50.0466 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-16:33:51.0466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-16:34:01.0917 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-16:34:02.0068 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-16:34:02.0830 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-16:34:02.0830 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-16:34:04.0928 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-16:34:05.0011 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-16:34:55.0567 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-16:34:56.0671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-16:35:13.0740 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-16:35:14.0923 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-16:35:16.0609 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-16:35:16.0610 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-16:35:19.0551 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-16:35:19.0669 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-16:35:24.0586 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-16:35:25.0443 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-16:35:45.0730 [main] INFO  testcases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-16:35:45.0908 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-16:35:57.0313 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-16:35:57.0313 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-16:35:59.0296 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-16:35:59.0406 [main] INFO  testcases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-16:36:20.0610 [main] INFO  testcases.TC002_LoginTest -  ****************** Starting Test ******************* 
-16:36:22.0522 [main] INFO  testcases.TC002_LoginTest -  ********************* Test Finished ***************** 
-17:40:19.0412 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:40:57.0243 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:41:53.0414 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:42:24.0386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:43:52.0499 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:44:46.0471 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:45:57.0597 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV121\master.xml"
-17:45:58.0300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\OpencartV121\master.xml
-
-17:46:05.0273 [main] INFO  testCases.TC001_AccountRegistrationTest -  *********** Starting Account Registration Test ************ 
-17:46:05.0929 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Clicked on My Account Link ****** 
-17:46:06.0580 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Clicked on Register Link ****** 
-17:46:06.0580 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Providing customer details.... ****** 
-17:46:08.0531 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Validating Expected Message... ****** 
-17:46:08.0576 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Test Closed ******** 
-17:46:12.0634 [main] INFO  testCases.TC002_LoginTest -  ****************** Starting Test ******************* 
-17:46:15.0268 [main] INFO  testCases.TC002_LoginTest -  ********************* Test Finished ***************** 
-17:46:19.0560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:19.0568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:19.0581 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:20.0681 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0150 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0164 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0237 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0392 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0476 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0482 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0507 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0561 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0591 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0593 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0595 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0616 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0643 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0680 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0728 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0755 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0774 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0798 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0819 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0866 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0897 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0919 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0946 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:21.0950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:21.0975 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:21.0998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:21.0999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0001 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0018 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:22.0042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0059 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:22.0082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0107 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:22.0133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0160 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:22.0215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0252 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:22.0284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0323 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0359 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-17:46:22.0361 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-17:46:22.0365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-17:46:22.0392 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-17:46:22.0425 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
-17:46:34.0346 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
-17:46:40.0316 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
-17:46:40.0321 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
-17:46:46.0059 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
-17:46:46.0071 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
-17:47:00.0899 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
-17:47:00.0916 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
-17:47:06.0232 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
-17:47:06.0243 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
-17:47:20.0488 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:38:55.0840 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:55.0877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:55.0879 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:55.0881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:55.0904 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:55.0938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:55.0940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:55.0942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:55.0963 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:55.0991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:55.0993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:55.0995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0014 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0039 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0043 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0066 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0106 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0138 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0163 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0164 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0186 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0209 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0211 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0230 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0256 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0257 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0278 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0299 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0323 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0349 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0368 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0391 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0393 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0395 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0417 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0462 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0483 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0507 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0569 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:56.0619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:56.0620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:38:56.0638 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:38:56.0749 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:08.0875 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:14.0314 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:14.0334 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:21.0660 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:21.0663 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:37.0028 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:37.0042 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:42.0198 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:42.0201 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:56.0484 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******

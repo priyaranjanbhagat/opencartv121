@@ -20,7 +20,7 @@ Data is invalid - login success - test fail  - logout
 
 public class TC003_LoginDDT extends BaseClass {
 
-	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class,groups="Datadriven")// getting data provider from different class
+	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class, groups="Datadriven")// getting data provider from different class
 	public void verify_loginDDT(String email, String pwd, String exp) throws InterruptedException
 	{
 		logger.info("***** stating TC_003_LoginDDT ******");
